@@ -1,6 +1,6 @@
 # 👋 Hola, soy César Orrego
 
-Soy ingeniero electrónico, msc en ingieniería eléctrica con enfoque en automatización.
+Soy ingeniero electrónico, msc en ingeniería eléctrica con enfoque en automatización.
 
 Ingeniero electrónico co-fundador de ZanySignals, con experiencia de 5 años en el desarrollo de productos electrónicos analógicos y sistemas embebidos enfocados en el procesamiento de audio y síntesis de sonido. Como Msc en ingeniería eléctrica soy entusiasta y apasionado en el campo de inteligencia artificial con conocimientos en el desarrollo de modelos de clasificación y analítica de datos, habilidades en machine Learning y deeplearning para el modelamiento de series temporales y procesamiento de imágenes. 
 
