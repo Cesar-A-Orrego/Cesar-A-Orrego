@@ -17,7 +17,7 @@ Ingeniero con enfoque en:
 
 ## 🚀 Proyectos destacados
 
-- HAR con CNN multimodal
+- HAR con CNN multimodal: https://github.com/Cesar-A-Orrego/har_cnn_multimodal
 - Clasificación de humedad en café (ML vs DL)
 - Clasificación ocular con DenseNet121
 - Estimación de edad facial
